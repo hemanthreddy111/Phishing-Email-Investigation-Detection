@@ -1,0 +1,1 @@
+Put safe synthetic `.eml` files here. Never execute attachments. The parser performs static analysis only.
